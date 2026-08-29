@@ -5,6 +5,6 @@ while True
 
 tebakan = int(input("tebak angka antara 1 sampai 10:"))
 if tebakan == angka_rahasia:
-   print("tebakanmu benar!")
+   print("tebakanmu salah!)
 else:
    print("tebakanmu salah!")
